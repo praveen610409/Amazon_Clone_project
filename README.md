@@ -1,3 +1,3 @@
 # Amazon_Clone_project
 
-using Html and CSS
+Using Html and CSS
