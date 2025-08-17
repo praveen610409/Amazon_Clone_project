@@ -5,4 +5,4 @@ Using Html and CSS
 ## Output
 
 ### Screenshot 
-![amazonclone](output/amazonclone.png)
+![amazonclone](amazoneclone/amazonclone.png)
