@@ -4,5 +4,5 @@ Using Html and CSS
 
 ## Output
 
-### Screenshot 
+### amazoneclone
 ![amazonclone](amazoneclone/amazonclone.png)
